@@ -3,7 +3,6 @@
 # Mesa Sarah Vasantha Zephyr 👋
 **Software Engineer | Generative AI & Full Stack Developer**  
 
-📍 Anantapur, Andhra Pradesh, India  
 [![Email](https://img.shields.io/badge/Email-mesazephyr1516@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesazephyr1516@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MesaSarah-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah15/)  
 [![GitHub](https://img.shields.io/badge/GitHub-MesaSarah-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB)
@@ -18,27 +17,33 @@ I create **scalable, AI-driven solutions** to solve real-world problems efficien
 
 ---
 
-## 🛠 Skills
+## 🛠 Skills & Proficiency
 
 ### Programming Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/) 
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Python](https://img.shields.io/badge/Python-95%-brightgreen?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![Java](https://img.shields.io/badge/Java-80%-blue?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-80%-yellow?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)  
+[![SQL](https://img.shields.io/badge/SQL-85%-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ### Frameworks & Libraries
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) 
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) 
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![React](https://img.shields.io/badge/React-85%-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)  
+[![Node.js](https://img.shields.io/badge/Node.js-75%-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)  
+[![FastAPI](https://img.shields.io/badge/FastAPI-75%-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)  
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-80%-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)  
+[![PyTorch](https://img.shields.io/badge/PyTorch-85%-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 ### Databases & Tools
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
-[![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/) 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-85%-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+[![Neo4j](https://img.shields.io/badge/Neo4j-80%-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)  
+[![Docker](https://img.shields.io/badge/Docker-75%-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
+[![Git](https://img.shields.io/badge/Git-90%-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+### AI & Machine Learning
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-90%-brightgreen?style=for-the-badge)](https://www.tensorflow.org/)  
+[![Deep Learning](https://img.shields.io/badge/Deep_Learning-85%-orange?style=for-the-badge)](https://pytorch.org/)  
+[![NLP](https://img.shields.io/badge/NLP-80%-blue?style=for-the-badge)](https://huggingface.co/)  
+[![OCR](https://img.shields.io/badge/OCR-80%-red?style=for-the-badge)](https://github.com/tesseract-ocr/tesseract)
 
 ---
 
