@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mesa Sarah Vasantha Zephyr 👋
+# Mesa Sarah Vasantha Zephyr 
 **Software Engineer | Generative AI & Full Stack Developer**  
  
 [![Email](https://img.shields.io/badge/Email-mesazephyr1516@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesazephyr1516@gmail.com)  
