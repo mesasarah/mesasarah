@@ -1,52 +1,80 @@
 <div align="center">
 
-# Mesa Sarah Vasantha Zephyr 
-**Software Engineer | Generative AI & Full Stack Developer**  
- 
-[![Email](https://img.shields.io/badge/Email-mesazephyr1516@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesazephyr1516@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MesaSarah-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah15/)  
-[![GitHub](https://img.shields.io/badge/GitHub-MesaSarah-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB)
+
+# Mesa Sarah Vasantha Zephyr
+
+### Data Analytics • Python Backend • AI Systems
+
+[![Email](https://img.shields.io/badge/Email-mesazephyr1516@gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesazephyr1516@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MesaSarah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah15/)
+[![GitHub](https://img.shields.io/badge/GitHub-MesaSarah-0D1117?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB)
 
 </div>
 
 ---
 
-## 🔹 About Me
-I am a **Software Engineer** passionate about **Generative AI, Data Analytics, and Full Stack Development**.  
-I create **scalable, AI-driven solutions** to solve real-world problems efficiently and effectively.
+# 🌊 About Me
+
+I am a **Software Engineer specializing in Data Analytics and Python backend systems**.
+
+I enjoy building **data-driven platforms, intelligent APIs, and AI-powered applications** that transform complex data into actionable insights.
+
+My interests include:
+
+• Data Analytics & Visualization  
+• Python Backend Development  
+• SQL & Database Engineering  
+• Machine Learning & AI Systems  
 
 ---
 
-## 🛠 Skills & Proficiency
+# 🐍 Programming Languages
 
-### Programming Languages
-[![Python](https://img.shields.io/badge/Python-95%25-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
-[![Java](https://img.shields.io/badge/Java-80%25-red?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/) 
-[![SQL](https://img.shields.io/badge/SQL-85%25-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+![Python](https://img.shields.io/badge/Python-Analytics%20%26%20ML-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database%20Engineering-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Backend%20Systems-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Web%20Applications-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frameworks & Libraries
-[![React](https://img.shields.io/badge/React-85%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) 
-[![Node.js](https://img.shields.io/badge/Node.js-75%25-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) 
-[![FastAPI](https://img.shields.io/badge/FastAPI-75%25-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-80%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) 
-[![PyTorch](https://img.shields.io/badge/PyTorch-85%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+---
 
-### Databases & Tools
-[![MySQL](https://img.shields.io/badge/MySQL-85%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
-[![Neo4j](https://img.shields.io/badge/Neo4j-80%25-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/) 
-[![Docker](https://img.shields.io/badge/Docker-75%25-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) 
-[![Git](https://img.shields.io/badge/Git-90%25-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+# ⚙ Backend Frameworks
 
-### AI & Machine Learning
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-90%25-green?style=for-the-badge)](https://www.tensorflow.org/) 
-[![Deep Learning](https://img.shields.io/badge/Deep_Learning-85%25-orange?style=for-the-badge)](https://pytorch.org/) 
-[![NLP](https://img.shields.io/badge/NLP-80%25-blue?style=for-the-badge)](https://huggingface.co/) 
-[![OCR](https://img.shields.io/badge/OCR-80%25-red?style=for-the-badge)](https://github.com/tesseract-ocr/tesseract)
+![Django](https://img.shields.io/badge/Django-Web%20Backend-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-High%20Performance%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Lightweight%20Backend-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+# 🗄 Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational%20Database-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Data%20Storage-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-Knowledge%20Graphs-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
+
+---
+
+# 📊 Data Analytics & ML
+
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Model%20Development-4CAF50?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-FF6F00?style=for-the-badge)
+
+---
+
+
+
+# 🌊 Current Focus
+
+• Building **AI-powered analytics platforms**  
+• Developing **Python backend systems**  
+• Designing **SQL data pipelines**  
+• Creating **knowledge graph applications**
 
 ---
 
 <div align="center">
-✨ *Let’s innovate, code, and shape the future of AI together!* ⚡
+
+### 🌊 *Exploring data like the ocean deep, structured, and powerful.*
+
 </div>
