@@ -43,9 +43,9 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mesasarah&show_icons=true&theme=catppuccin_latte&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mesasarah&show_icons=true&theme=rose_pine&hide_border=true"/>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesasarah&layout=compact&theme=catppuccin_latte&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mesasarah&layout=compact&theme=rose_pine&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -64,4 +64,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FBD5E0,100:E091A8&height=70&section=footer"/>
+</p>
+<p align="center">
+  <img src="https://media.tenor.com/5ry-200hErMAAAAC/hacker-hacker-man.gif" width="180"/>
 </p>
