@@ -348,173 +348,144 @@ Developed secure offline RAG systems for technical document intelligence operati
 
 ---
 
-"use client";
+# Coding Profiles
 
-import { motion, AnimatePresence } from "framer-motion";
-import { useEffect, useState } from "react";
+<div align="center">
 
-export default function LoadingScreen() {
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-  const [loading, setLoading] = useState(true);
+<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
-  useEffect(() => {
+<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-Competitive%20Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
-    const timer = setTimeout(() => {
+<a href="https://www.codechef.com/users/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
-      setLoading(false);
+</div>
 
-    }, 3200);
+---
 
-    return () => clearTimeout(timer);
+# GitHub Analytics
 
-  }, []);
+<div align="center">
 
-  return (
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-    <AnimatePresence>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-      {loading && (
+</div>
 
-        <motion.div
+<br>
 
-          className="loading-screen"
+<div align="center">
 
-          initial={{ opacity: 1 }}
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-          exit={{
+</div>
 
-            opacity: 0,
+---
 
-            transition: {
+# GitHub Trophies
 
-              duration: 1,
+<div align="center">
 
-            },
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15&column=4"/>
 
-          }}
+</div>
 
-        >
+---
 
-          <div className="loading-content">
+# Contribution Activity
 
-            <motion.div
+<div align="center">
 
-              className="loading-logo"
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
-              animate={{
+</div>
 
-                scale: [1, 1.08, 1],
+---
 
-              }}
+# Contribution Snake
 
-              transition={{
+<div align="center">
 
-                repeat: Infinity,
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
-                duration: 2,
+</div>
 
-              }}
+---
 
-            >
+# Current Focus
 
-              🐋
+```yaml
+learning:
+  - Advanced System Design
+  - Distributed Systems
+  - Kubernetes
+  - Cloud Computing
+  - AI Agents
+  - GraphRAG
 
-            </motion.div>
+building:
+  - Enterprise AI Platforms
+  - Full Stack SaaS Products
+  - Open Source Projects
+  - AI Developer Tools
 
-            <motion.h1
+exploring:
+  - LLM Fine Tuning
+  - MCP
+  - Multi-Agent Systems
+  - Cloud Native Engineering
 
-              initial={{
+open_to:
+  - Software Engineer
+  - AI Engineer
+  - Backend Engineer
+  - Full Stack Engineer
+```
 
-                opacity: 0,
+---
 
-                y: 40,
+# Connect
 
-              }}
+<div align="center">
 
-              animate={{
+<a href="mailto:mesazephyr1516@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-                opacity: 1,
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-                y: 0,
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
 
-              }}
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel"/>
+</a>
 
-              transition={{
+</div>
 
-                delay: .4,
+---
 
-              }}
+<div align="center">
 
-            >
+> **"Engineering intelligent systems that transform ideas into scalable products."**
 
-              Mesa Sarah Zephyr
+</div>
 
-            </motion.h1>
+<div align="center">
 
-            <motion.p
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:4B0082,25:5B21B6,50:7C3AED,75:6366F1,100:3B82F6"/>
 
-              initial={{
-
-                opacity: 0,
-
-              }}
-
-              animate={{
-
-                opacity: 1,
-
-              }}
-
-              transition={{
-
-                delay: .8,
-
-              }}
-
-            >
-
-              Diving into the Ocean of Technology...
-
-            </motion.p>
-
-            <div className="loading-bar">
-
-              <motion.div
-
-                className="loading-progress"
-
-                initial={{
-
-                  width: 0,
-
-                }}
-
-                animate={{
-
-                  width: "100%",
-
-                }}
-
-                transition={{
-
-                  duration: 3,
-
-                  ease: "easeInOut",
-
-                }}
-
-              />
-
-            </div>
-
-          </div>
-
-        </motion.div>
-
-      )}
-
-    </AnimatePresence>
-
-  );
-
-}
+</div>
