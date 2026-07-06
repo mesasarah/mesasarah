@@ -32,15 +32,10 @@
 
 ---
 
-<h2 align="center">🛠 Languages & Tools</h2>
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,fastapi,mongodb,mysql,docker,git,github,linux,vscode,figma,tensorflow,pytorch&perline=9"/>
 </p>
 
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mesasarah&theme=github-compact&hide_border=true&color=E091A8&line=E091A8&point=E091A8&area=true&area_color=FBD5E0"/>
 
