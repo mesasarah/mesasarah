@@ -346,6 +346,8 @@ Developed secure offline RAG systems for technical document intelligence operati
 
 ![](https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge)
 
+---
+
 "use client";
 
 import { motion, AnimatePresence } from "framer-motion";
