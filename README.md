@@ -3,8 +3,10 @@
 <table>
 <tr>
 
-<td align="center" width="80">
-<img src="https://em-content.zobj.net/source/apple/391/cat-face_1f431.png" width="45"/>
+<td width="70" align="center">
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAi/cat-computer.gif" width="45"/>
+<br><br>
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAi/cat-computer.gif" width="38"/>
 </td>
 
 <td align="center">
@@ -39,10 +41,10 @@
 
 </td>
 
-<td align="center" width="80">
-<img src="https://em-content.zobj.net/source/apple/391/sparkling-heart_1f496.png" width="40"/>
+<td width="70" align="center">
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAi/cat-computer.gif" width="45"/>
 <br><br>
-<img src="https://em-content.zobj.net/source/apple/391/cat-face_1f431.png" width="45"/>
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAi/cat-computer.gif" width="38"/>
 </td>
 
 </tr>
@@ -92,4 +94,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FBD5E0,100:E091A8&height=70&section=footer"/>
 
+</p>
+
+<p align="center">
+<img src="https://media.tenor.com/2roX3uxz_68AAAAi/cat-space.gif" width="170"/>
 </p>
