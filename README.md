@@ -42,14 +42,16 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mesasarah&show_icons=true&theme=rose_pine&hide_border=true"/>
+<h2 align="center">GitHub Stats</h2>
 
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mesasarah&layout=compact&theme=rose_pine&hide_border=true"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mesasarah&show_icons=true&theme=omni&hide_border=true"/>
+
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mesasarah&layout=compact&theme=omni&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=mesasarah&theme=catppuccin-latte&hide_border=true"/>
+  <img width="60%" src="https://streak-stats.demolab.com?user=mesasarah&theme=omni&hide_border=true"/>
 </p>
 
 ---
