@@ -43,13 +43,13 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mesasarah&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=E091A8&icon_color=E091A8&text_color=C48AA3"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mesasarah&show_icons=true&theme=catppuccin_latte&hide_border=true"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesasarah&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000&title_color=E091A8&text_color=C48AA3"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesasarah&layout=compact&theme=catppuccin_latte&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=mesasarah&theme=rose-pine&hide_border=true&background=00000000&ring=E091A8&fire=E091A8&currStreakLabel=E091A8&sideLabels=C48AA3&currStreakNum=C48AA3&sideNums=C48AA3"/>
+  <img width="60%" src="https://streak-stats.demolab.com?user=mesasarah&theme=catppuccin-latte&hide_border=true"/>
 </p>
 
 ---
