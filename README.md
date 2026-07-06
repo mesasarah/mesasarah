@@ -38,20 +38,6 @@
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,fastapi,mongodb,mysql,docker,git,github,linux,vscode,figma,tensorflow,pytorch&perline=9"/>
 </p>
 
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mesasarah&show_icons=true&theme=transparent&hide_border=true&title_color=E091A8&icon_color=E091A8&text_color=B76E79"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesasarah&layout=compact&theme=transparent&hide_border=true&title_color=E091A8&text_color=B76E79"/>
-
-</p>
-
----
-
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
