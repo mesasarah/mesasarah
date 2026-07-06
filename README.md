@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FBD5E0,100:E091A8&height=160&section=header&text=Mesa%20Sarah%20Zephyr&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Open%20to%20GenAI%20•%20AI/ML%20•%20Full-Stack%20Engineer&descAlignY=74&descSize=15"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FBD5E0,100:E091A8&height=160&section=header&text=Mesa%20Sarah%20Zephyr&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Open%20to%20AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Backend%20Engineer%20Roles&descAlignY=74&descSize=15"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=28&duration=3500&pause=1200&color=E091A8&center=true&vCenter=true&width=800&lines=AI+Developer;Full+Stack+Engineer;Machine+Learning+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=28&duration=3500&pause=1200&color=E091A8&center=true&vCenter=true&width=800&lines=AI+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Backend+Engineer"/>
 
 <br>
 
 <i>Building intelligent solutions, beautiful experiences & meaningful products.</i>
 
-<br><br>
+<br>
 
-<a href="YOUR_LINKEDIN">
+<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/sarah15/)">
 <img src="https://img.shields.io/badge/LinkedIn-F4C2D7?style=for-the-badge&logo=linkedin&logoColor=5A2D3C"/>
 </a>
 
@@ -51,7 +51,5 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FBD5E0,100:E091A8&height=70&section=footer"/>
-
-<sub>Made with ♡ by Mesa Sarah Zephyr</sub>
 
 </div>
