@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mesasarah&show_icons=true&theme=transparent&hide_border=true&title_color=E091A8&icon_color=E091A8&text_color=ffffff"/>
+<img src="https://ghchart.rshah.org/E091A8/mesasarah" alt="Sarah's GitHub contribution graph"/>
 </p>
 
 ---
