@@ -4,10 +4,7 @@
 
 <br>
 
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mesasarah&show_icons=true&theme=transparent&hide_border=true&title_color=E091A8&icon_color=E091A8&text_color=ffffff&bg_color=00000000"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesasarah&layout=compact&theme=transparent&hide_border=true&title_color=E091A8&text_color=ffffff&bg_color=00000000"/>
-</p>
+<img src="https://ghchart.rshah.org/E091A8/mesasarah" alt="Sarah's GitHub contribution graph" />
 
 <br>
 
