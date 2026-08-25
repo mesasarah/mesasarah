@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-<img src="https://ghchart.rshah.org/E091A8/mesasarah" alt="Sarah's GitHub contribution graph"/>
+<img src="https://github-readme-activity-graph-two-chi.vercel.app/graph?username=mesasarah&theme=github-compact&hide_border=true&color=E091A8&line=E091A8&point=E091A8&area=true&area_color=FBD5E0"/>
 </p>
 
 ---
