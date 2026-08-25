@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=28&duration=3500&pause=1200&color=E091A8&center=true&vCenter=true&width=800&lines=AI+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Backend+Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=28&duration=3500&pause=1200&color=E091A8&center=true&vCenter=true&width=800&lines=AI+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Backend+Engineer"/>
 
 <br>
 
