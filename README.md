@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph-two-chi.vercel.app/graph?username=mesasarah&theme=github-compact&hide_border=true&color=E091A8&line=E091A8&point=E091A8&area=true&area_color=FBD5E0"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mesasarah&show_icons=true&theme=transparent&hide_border=true&title_color=E091A8&icon_color=E091A8&text_color=ffffff&bg_color=00000000"/>
 
 <br>
 
