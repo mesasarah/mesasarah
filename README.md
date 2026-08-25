@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mesasarah&show_icons=true&theme=transparent&hide_border=true&title_color=E091A8&icon_color=E091A8&text_color=ffffff&bg_color=00000000"/>
+<img src="https://streak-stats.demolab.com?user=mesasarah&theme=dark&hide_border=true&background=00000000&stroke=E091A8&ring=E091A8&fire=E091A8&currStreakLabel=E091A8"/>
 
 <br>
 
