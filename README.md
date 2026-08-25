@@ -8,13 +8,13 @@
 <a href="https://www.linkedin.com/in/sarah15/">
 <img src="https://img.shields.io/badge/LinkedIn-F4C2D7?style=for-the-badge&logo=linkedin&logoColor=5A2D3C"/>
 </a>
-<a href="YOUR_RESUME">
+<a href="https://drive.google.com/file/d/1tY9T4GSEOmLQKPZLmTtP3p0jIl7gKnpc/view?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-F6C9DA?style=for-the-badge&logo=googledrive&logoColor=5A2D3C"/>
 </a>
-<a href="YOUR_PORTFOLIO">
+<a href="https://www.sarahzephyr.com/">
 <img src="https://img.shields.io/badge/Portfolio-F0AFC9?style=for-the-badge&logo=vercel&logoColor=5A2D3C"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mesazephyr1516@gmail.com">
 <img src="https://img.shields.io/badge/Email-EBA0BE?style=for-the-badge&logo=gmail&logoColor=5A2D3C"/>
 </a>
 </div>
