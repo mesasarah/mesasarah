@@ -5,6 +5,7 @@
 <br>
 <i>Building intelligent solutions, beautiful experiences & meaningful products.</i>
 <br>
+<br>
 <a href="https://www.linkedin.com/in/sarah15/">
 <img src="https://img.shields.io/badge/LinkedIn-F4C2D7?style=for-the-badge&logo=linkedin&logoColor=5A2D3C"/>
 </a>
@@ -22,7 +23,7 @@
 ---
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,fastapi,mongodb,mysql,docker,git,github,linux,vscode,figma,tensorflow,pytorch&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,css,react,nextjs,nodejs,express,fastapi,mongodb,mysql,postgres,docker,git,github,linux,vscode,figma,postman,tensorflow,pytorch&perline=12"/>
 </p>
 
 <p align="center">
