@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=28&duration=3500&pause=1200&color=E091A8&center=true&vCenter=true&width=800&lines=AI+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Backend+Engineer"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mesasarah&theme=react-dark&hide_border=true&color=E091A8&line=E091A8&point=E091A8&area=true&area_color=FBD5E0"/>
 
 <br>
 
